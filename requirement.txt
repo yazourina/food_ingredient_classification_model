@@ -1,0 +1,5 @@
+# Python 3.10 or higher
+
+torch==2.5.0
+torchvision==0.20.0
+Pillow==9.5.0
